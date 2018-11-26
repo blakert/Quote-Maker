@@ -1,0 +1,27 @@
+
+body{
+  background-color: #3317;
+  color: #333;
+  font-family: sans-serif;
+  font-weight: 400;
+  font-size: 30pt;
+}
+#quotebox{
+  background-color: white;
+  margin-top: 15%;
+  padding: 40px 50px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+.quote{
+  font-family: cursive;
+}
+#author{
+  margin-left: auto;
+}
+#quoteBtn{
+  margin-left: auto;
+  
+}
